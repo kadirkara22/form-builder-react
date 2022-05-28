@@ -1,0 +1,15 @@
+.App {
+  width: 90%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.App-left {
+  width: 68%;
+  height: 100%;
+}
+.App-right {
+  width: 25%;
+  height: 100%;
+}

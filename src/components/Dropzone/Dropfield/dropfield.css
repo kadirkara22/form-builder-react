@@ -1,0 +1,17 @@
+.dropfield {
+  position: relative;
+  width: 100%;
+  border: 1px solid #ddd;
+  background: #fafafa;
+  box-shadow: 0 0 2px 1px rgb(0 0 0 / 10%);
+  min-height: 750px;
+}
+.from-place-holder {
+  margin: 10px;
+  border: 2px dashed #bbb;
+  border-radius: 5px;
+  padding: 25px;
+  text-align: center;
+  font: 20pt bold, "Vollkorn";
+  color: #bbb;
+}
